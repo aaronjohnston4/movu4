@@ -127,6 +127,7 @@ body {
   --------------------------------------------------------------*/
   #topbar {
     background: #191919;
+    opacity: .5;
     font-size: 15px;
     height: 40px;
     padding: 0;
